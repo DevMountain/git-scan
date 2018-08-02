@@ -1,0 +1,19 @@
+{
+  "name": "git-remote-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "bin": {
+    "git-scan": ""
+  },
+  "preferGlobal": true,
+  "bug": {
+    "url":""
+  }
+  "author": "",
+  "license": "ISC"
+}
